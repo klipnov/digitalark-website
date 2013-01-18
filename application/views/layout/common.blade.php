@@ -14,7 +14,17 @@
 
                 	@yield('carousel')
 
-                	@yield('content')
+                	@yield('do')
+
+                	@yield('who')
+
+                	@yield('current')
+
+                	@yield('past')
+
+                	@yield('contact')
+
+                	@yield('footer')
 
                 </div>
 		</div>

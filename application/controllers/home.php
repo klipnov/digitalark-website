@@ -35,7 +35,11 @@ class Home_Controller extends Base_Controller {
 	{
 		$this->layout->nest('logo','partials.logo');
 		$this->layout->nest('carousel','partials.carousel');
-		$this->layout->nest('content', 'partials.content');
+		$this->layout->nest('do', 'partials.do');
+		$this->layout->nest('who', 'partials.who');
+		$this->layout->nest('current', 'partials.current');
+		$this->layout->nest('past', 'partials.past');
+		$this->layout->nest('footer', 'partials.footer');
 	}
 
 }
