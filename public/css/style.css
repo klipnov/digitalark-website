@@ -1,0 +1,35 @@
+body {
+	background-color: white ;
+}
+
+.arkMainDiv {
+	//background-color: #F8F8F8 ;
+	height: 1024px;
+}
+
+.arkTitleDiv {
+	//padding-left: 13px;
+}
+
+.arkTagline {
+	color: #C8C8C8 ;
+	//color: #808080 
+}
+
+.arkMainImg {
+	text-align: center;
+}
+
+.arkWell {
+	width:500px;
+	//margin-left: 13px;
+}
+
+.arkTable {
+	//margin-left: 13px;
+	width:540px;
+}
+
+.arkContentTitle {
+	//margin-left:13px;
+}
