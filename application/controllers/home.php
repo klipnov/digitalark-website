@@ -39,6 +39,7 @@ class Home_Controller extends Base_Controller {
 		$this->layout->nest('who', 'partials.who');
 		$this->layout->nest('current', 'partials.current');
 		$this->layout->nest('past', 'partials.past');
+    $this->layout->nest('contact','partials.contact');
 		$this->layout->nest('footer', 'partials.footer');
 	}
 
